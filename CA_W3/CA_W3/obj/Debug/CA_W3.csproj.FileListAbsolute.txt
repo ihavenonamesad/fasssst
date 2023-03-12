@@ -1,0 +1,11 @@
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\bin\Debug\CA_W3.exe.config
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\bin\Debug\CA_W3.exe
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\bin\Debug\CA_W3.pdb
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.csproj.AssemblyReference.cache
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.Form1.resources
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.Properties.Resources.resources
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.csproj.GenerateResource.cache
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.csproj.CoreCompileInputs.cache
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.exe
+C:\Users\Asus1\source\repos\CA_W3\CA_W3\obj\Debug\CA_W3.pdb
